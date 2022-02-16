@@ -1,4 +1,8 @@
 Hallo
 dit is dus een dubbele test
+<<<<<<< HEAD
 
 nu even kijken of dit werkt
+=======
+haha dusssss
+>>>>>>> 1f822c3e6cd4079f08b1ece7c93aa26b0d074436
